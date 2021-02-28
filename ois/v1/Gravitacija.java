@@ -4,7 +4,7 @@ import java.util.*;
 public class Gravitacija{
 
     public static void main(String[] args){
-    System.out.print("OIS je zakon!");
+    System.out.println("OIS je zakon!");
 
     Scanner scan = new Scanner(System.in);
     double visina = scan.nextDouble();
