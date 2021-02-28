@@ -15,6 +15,6 @@ public class Gravitacija{
 
     double pospesek = (6.674 * a * 5.972 * b) / ((6.371 * c + visina) * (6.371 * c + visina));
 
-    System.out.println("Gravitacijski pospesek ima vrednost" + pospesek + " pri podani nadmorski višini: " + visina.);
+    System.out.println("Gravitacijski pospesek ima vrednost" + pospesek + " pri podani nadmorski višini: " + visina + ".");
     }
 }
